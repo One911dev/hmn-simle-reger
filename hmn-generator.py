@@ -1,6 +1,6 @@
 import requests
 
-url = 'https://hidxxy.name/demo'
+url = 'https://hidemyname.org/ru/demo/'
 
 if 'Ваша электронная почта' in requests.get(url).text:
     
